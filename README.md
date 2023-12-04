@@ -3,15 +3,16 @@ Minecraft Bedrock Resource pack
 
 - main pack buatan saya sendiri, dan dibantu oleh beberapa teman-teman saya
 
-kode ini pribadi, bukan publik
-kamu diperbolehkan untuk memodifikasi, edit, menggunakan kode hanya untuk pribadi, sangat dilarang untuk publik dan komersil
-jika kamu ingin publik silahkan, tetapi kamu harus mematuhi peraturan yang ada
+Syarat Penggunaan:
 
-1. izin kepada saya, jika saya tidak mengizinkan berarti mutlak dilarang
-2. copy dan paste sangat dilarang
-3. harus memodifikasi kode agar tidak seperti originalnya
+ Dengan mengunduh, menggunakan, atau berinteraksi dengan cara apa pun dengan add-on ini, Anda menyetujui ketentuan berikut:
 
-tolong patuhi peraturan ini, saya tidak ridho jika kamu jika menggunakan tanpa izin, dan mengupload ke platform lain
+ - Tidak Ada Turunan.  Anda dapat me-remix, mengadaptasi, atau mengembangkan add-on tersebut asalkan untuk penggunaan pribadi (ini berarti Anda tidak boleh mempublikasikan atau mendistribusikannya di mana pun).
+ - Non-Komersial.  Anda tidak boleh memonetisasi, menjual, atau mengambil keuntungan dari add-on ini dengan cara apa pun.
+ - Redistribusi.  Anda tidak boleh mendistribusikan ulang atau memublikasikan ulang add-on tersebut.
+ - Membagikan.  Anda tidak boleh membagikan tautan unduhan langsung atau tautan apa pun yang dibuat pengguna dari add-on tersebut.  Gunakan tautan repo resmi Github.
+ - Atribusi.  Anda dapat memberikan kredit yang sesuai jika ada konten tambahan (UI, file, dll.) yang muncul di konten Anda, misalnya video.
+ - Tidak ada bundling.  Anda tidak boleh menyertakan file add-on atau cuplikannya di add-on lain.  Namun, Anda dapat memberikan tautan ke halaman repo Github resmi pengaya tersebut.
 
 # Feature
 
@@ -23,13 +24,16 @@ maka kemungkinan itu referensi atau kebetulan sama
 # English
 - The main pack is my own creation, assisted by some of my friends.
 
-This code is private, not public. You are allowed to modify, edit, and use the code for personal purposes only. It is strictly prohibited for public and commercial use. If you wish to make it public, you must adhere to the existing rules.
+Terms of use:
 
-1. Permission from me is required; if I do not grant it, it is absolutely forbidden.
-2. Copy and paste are strictly prohibited.
-3. The code must be modified to avoid resemblance to the original.
+By downloading, using or interacting in any way with this add-on, you agree to the following terms:
 
-Please adhere to these rules. I do not approve if you use it without permission and upload it to other platforms.
+- No Derivates. You can remix, adapt or build upon the add-on as long as it is for private use (this means that you may not publish or distribute it anywhere).
+- Non-Commercial. You may not monetise, sell, or profit from the add-on in any way.
+- Redistribution. You may not redistribute or republish the add-on.
+- Sharing. You may not share the direct download link or any user-made link of the add-on. Use the official Github repo link.
+- Attribution. You may give proper credit if any of the add-on contents (UI, files, etc.) appear in your content, such as videos.
+- No bundling. You may not include the add-on files or snippets from them in other add-ons. You may, however, provide a link to the add-on’s official Github repo page.
 
 # Features
 
